@@ -1,9 +1,12 @@
 # EXPERIENCE
 
-## CTO at MyHabits
-_February 2025 - Today_
+## Technical Consultant at MyHabits
+_February 2025 - July 2025_
 
-Chief technology officer at MyHabits, responsible for strategic software infrastructure optimizations. Achieved a 38.94% reduction in operational costs. Tech used: NGINX, Docker, SSL, Certbot.
+- Reduced operational hosting costs by 68.64%, responsible for strategic software infrastructure optimizations, enhancing financial sustainability for a pre-revenue AI/SaaS startup.  
+- Led the development of a B2C WhatsApp AI agent MVP, driving the acquisition of 40 early customers. Responsibilities included the architecture, core AI functionality, KPI dashboard, and survey application website.
+- Managed server infrastructure and codebase as the sole technical contributor, utilizing NGINX, Docker, SSL, and Certbot to ensure secure and reliable deployment.  
+- Provided strategic technical guidance, optimizing software infrastructure to support business objectives in a resource-constrained environment.
 
 ## Software Engineer at Gatblac
 _March 2020 – June 2024_
@@ -22,10 +25,19 @@ Code migration to Nodejs and AngularJS for the Santiago Stock Exchange using the
 
 # PROJECTS
 
-## Operational cost reduction project
-Conducted a comprehensive review of existing infrastructure and identified inefficiencies.
-Introduced NGINX and Docker for better resource management, improved DNS configurations and automated SSL certificate management using Certbot.
-Achieved a 38.94% reduction in operational costs, enhancing overall efficiency and performance.
+## AI/SaaS MVP Project
+*MyHabits, April 2025 – July 2025*
+
+-   Designed and implemented the MVP of an AI/SaaS platform, focusing on AI agent orchestration and data management.
+-   Technologies utilized: NestJS, PostgreSQL, Prisma ORM, Angular, n8n, OpenAI, Gemini LLMs, RAG architecture.
+-   Deployed and maintained a secure and scalable infrastructure using NGINX, Docker, SSL, and Certbot.  Solely responsible for all code and server infrastructure.
+
+## Operational Cost Reduction Project
+*MyHabits, February 2025 – March 2025*
+
+- Conducted a comprehensive review of infrastructure, identifying inefficiencies in cloud hosting.
+- Implemented NGINX and Docker for optimized resource management, improved DNS configurations, and automated SSL certificate management using Certbot.  
+- Achieved a 68.64% reduction in operational costs, enhancing efficiency and financial viability for a pre-revenue startup.
 
 ## BICE Funds retention
 Designed and implemented APIs and microservices to manage fund retention of bank accounts with suspicious activities. Spring boot, AlloyDB.
