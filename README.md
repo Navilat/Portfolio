@@ -43,7 +43,6 @@ Code migration to Nodejs and AngularJS for the Santiago Stock Exchange using the
 Designed and implemented APIs and microservices to manage fund retention of bank accounts with suspicious activities. Spring boot, AlloyDB.
 Implemented massive (arrays of requests) and concurrent validation flows (threads) features.
 Logs generated at each stage of the validation of the operation were stored at an AlloyDB database in order to keep track of every retention order. Database structure managed with Liquibase.
-Payment gateway
 
 ## CI/CD scaffold
 Implemented quality gates, unit tests and deployment through the use of Jenkins.
