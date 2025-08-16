@@ -7,8 +7,8 @@ layout: default
 ## Technical Consultant at MyHabits
 _February 2025 - July 2025_
 
-- Reduced operational hosting costs by 68.64%, responsible for strategic software infrastructure optimizations, enhancing financial sustainability for a pre-revenue AI/SaaS startup.  
-- Led the development of a B2C WhatsApp AI agent MVP, driving the acquisition of 40 early customers. Responsibilities included the architecture, core AI functionality, KPI dashboard, and survey application website.
+- Reduced operational hosting costs by **68.64%**, responsible for strategic software infrastructure optimizations, enhancing financial sustainability for a pre-revenue AI/SaaS startup.  
+- Led the development of a B2C WhatsApp AI agent MVP, driving the acquisition of **40 early customers**. Responsibilities included the architecture, core AI functionality, KPI dashboard, and survey application website.
 - Managed server infrastructure and codebase as the sole technical contributor, utilizing NGINX, Docker, SSL, and Certbot to ensure secure and reliable deployment.  
 - Provided strategic technical guidance, optimizing software infrastructure to support business objectives in a resource-constrained environment.
 
