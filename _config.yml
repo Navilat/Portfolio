@@ -3,6 +3,3 @@ title: Nicolás Ávila
 description: Senior Software Engineer | AI Agent & Software Solutions Consultant
 logo: https://raw.githubusercontent.com/Navilat/Portfolio/refs/heads/gh-pages/profile_picture.jpg
 google_analytics: G-ZW7F6BGYQ6
-collections:
-  projects:
-    output: true
