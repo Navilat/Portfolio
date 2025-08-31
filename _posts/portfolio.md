@@ -1,3 +1,9 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
 # Portfolio
 
 ## Featured Project: CausaCheck
