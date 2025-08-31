@@ -43,13 +43,36 @@ permalink: /portfolio/
 - **Deployment**: Firebase Hosting for frontend; Vultr with Docker containers for scalability (99.9% uptime).
 
 #### Tech Stack
-| Category          | Technologies/Tools |
-|-------------------|--------------------|
-| **Frontend**     | React 18, TypeScript, Vite with SWC, shadcn/ui (Radix UI + Tailwind CSS), React Router v6, TanStack React Query, React Hook Form with Zod, i18next for Spanish/English i18n, Lucide React icons |
-| **Backend**      | NestJS with TypeScript, PostgreSQL with Prisma ORM, JWT/Passport for auth, CASL for authorization, Brevo for emails, Flow for payments, Swagger for API docs |
-| **State Management** | React Context (auth), TanStack Query (server state), Prisma (database) |
-| **DevOps**       | Docker, GitHub Actions for CI/CD, Jest for testing |
-| **Other**        | Joi for env validation, Helmet for security headers |
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies/Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>React 18, TypeScript, Vite with SWC, shadcn/ui (Radix UI + Tailwind CSS), React Router v6, TanStack React Query, React Hook Form with Zod, i18next for Spanish/English i18n, Lucide React icons</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>NestJS with TypeScript, PostgreSQL with Prisma ORM, JWT/Passport for auth, CASL for authorization, Brevo for emails, Flow for payments, Swagger for API docs</td>
+    </tr>
+    <tr>
+      <td><strong>State Management</strong></td>
+      <td>React Context (auth), TanStack Query (server state), Prisma (database)</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps</strong></td>
+      <td>Docker, GitHub Actions for CI/CD, Jest for testing</td>
+    </tr>
+    <tr>
+      <td><strong>Other</strong></td>
+      <td>Joi for env validation, Helmet for security headers</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Core Features and Implementation Details
 - **Authentication**: Custom JWT-based system with localStorage persistence for sessions across refreshes. Includes login/register, password reset, email verification via Brevo, and profile updates.
