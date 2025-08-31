@@ -94,9 +94,7 @@ permalink: /portfolio/
 - **User Experience**: Simplified UI for non-tech-savvy users, using shadcn/ui’s accessible components and clear table views.
 
 #### Outcomes and Metrics
-- **User Adoption**: Secured one long _
-
-standing outsourcing client; completed 500 queries in the first month.
+- **User Adoption**: Secured one long standing outsourcing client; completed 500 queries in the first month.
 - **Revenue**: Credit-based model (600 CLP/query) with $5K revenue to date.
 - **Technical Metrics**: 99.9% uptime, sub-2s page loads, 90% test coverage via Jest unit/E2E tests.
 - **Live Demo**: [https://causacheck.algoritmo.lat/](https://causacheck.algoritmo.lat/)
