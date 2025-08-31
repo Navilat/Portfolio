@@ -22,7 +22,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>Contact: <a href="mailto:navila00@gmail.com">navila00@gmail.com</a></p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -39,9 +38,15 @@
         <nav class="side-menu">
             <ul>
                 <li><a href="{{ site.baseurl }}/">Resume</a></li>
-                <li><a href="{{ site.baseurl }}/portfolio/">Portfolio</a></li>
+                <a href="{{ site.baseurl }}/portfolio/">Portfolio</a>
+                <ul>
+                    <li><a href="{{ site.baseurl }}/portfolio/project1/">Project 1</a></li>
+                    <li><a href="{{ site.baseurl }}/portfolio/project2/">Project 2</a></li>
+                    <li><a href="{{ site.baseurl }}/portfolio/project3/">Project 3</a></li>
+                </ul>
             </ul>
         </nav>
+        <p>Contact: <a href="mailto:navila00@gmail.com">navila00@gmail.com</a></p>
       </header>
       <section>
 
