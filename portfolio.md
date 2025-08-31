@@ -76,9 +76,9 @@ permalink: /portfolio/
 standing outsourcing client; completed 500 queries in the first month.
 - **Revenue**: Credit-based model (600 CLP/query) with $5K revenue to date.
 - **Technical Metrics**: 99.9% uptime, sub-2s page loads, 90% test coverage via Jest unit/E2E tests.
-- **Live Demo**: https://causacheck.algoritmo.lat/
+- **Live Demo**: [https://causacheck.algoritmo.lat/](https://causacheck.algoritmo.lat/)
 - **Screenshots**:
-  - <img width="1726" height="996" alt="image" src="https://github.com/user-attachments/assets/589154f5-30d3-40bb-8617-8a24ee603f05" />
+  - <img alt="image" src="https://github.com/user-attachments/assets/589154f5-30d3-40bb-8617-8a24ee603f05" />
 
 ## Other Projects
 ### Project 1: Operational Cost Reduction for MyHabits (Consulting)
