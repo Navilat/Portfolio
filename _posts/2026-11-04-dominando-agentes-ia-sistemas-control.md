@@ -93,7 +93,6 @@ El rol de los profesionales técnicos no es reemplazado por los agentes; es elev
 
 **[Nicolás Ávila]({{ site.baseurl }}/)** es Ingeniero de Software Senior y Consultor especializado en la arquitectura e implementación de soluciones con agentes de IA, optimización de infraestructura y desarrollo full-stack escalable. Ha liderado el diseño y despliegue de MVPs de agentes de IA y reducciones críticas de costos operativos en startups de tecnología.
 
-* Conoce más proyectos en el [Portfolio de Proyectos]({{ site.baseurl }}/portfolio/).
 * Revisa su trayectoria en el [Currículum / Resume]({{ site.baseurl }}/).
 * Contacto directo: [navila00@gmail.com](mailto:navila00@gmail.com).
 
