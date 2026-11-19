@@ -12,3 +12,5 @@ author:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+exclude:
+  - docs/
